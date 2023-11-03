@@ -1,3 +1,3 @@
 # wall-breaker-game-pyhton-
-this is a wall breaker game created on python using pygame library.
-This helped me in better understanding python and its modules
+This is a wall-breaker game created on Python using pygame library. 
+This helped me better understand Python and its modules.
